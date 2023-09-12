@@ -1,0 +1,7 @@
+.bg-image {
+  background-image: url("https://i.ibb.co/XSK2Q5f/10-expert-tips-for-designing-with-a-blurred-background-featured-image.webp");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-attachment: fixed;
+}
